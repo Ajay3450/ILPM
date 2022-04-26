@@ -6,7 +6,7 @@ Same as ILPM, except with all music on legal stages and menus replaced with the 
 
 
 
-Yoshi's:
+# Yoshi's:
 
 Super Mario World Atheltic Theme
 
@@ -20,7 +20,7 @@ Angel Island Zone Act 1 (Sonic 3)
 
 
 
-Meadows:
+# Meadows:
 
 Cloud Tops (Minish Cap)
 
@@ -40,7 +40,7 @@ Twilight Field 8-bit (Hyrule Warriors)
 
 
 
-Cavern:
+# Cavern:
 
 Oil Ocean Zone (Sonic 2)
 
@@ -58,7 +58,7 @@ Streets of Desolation (Batman NES)
 
 
 
-Dreamland:
+# Dreamland:
 
 Fever (Dr. Mario)
 
@@ -76,7 +76,7 @@ Full Steam Ahead (Spirit Tracks) 8-bit (Hyrule Warriors)
 
 
 
-GHZ:
+# GHZ:
 
 Hydrocity Zone Act 2 (Sonic 3)
 
@@ -92,7 +92,7 @@ Battle with Egg Dragoon (Sonic)
 
 
 
-Smashville:
+# Smashville:
 
 Aquatic Ruin Zone (Sonic 2)
 
@@ -108,7 +108,7 @@ Angel Island Zone REMIX (Sonic 3)
 
 
 
-Battlefield:
+# Battlefield:
 
 Tal Tal Heights (Link's Awakening)
 
@@ -128,7 +128,7 @@ Boss (Sonic 2)
 
 
 
-Stadium:
+# Stadium:
 
 Battle Vs Lance/Red (Pokemon G/S/C)
 
@@ -146,7 +146,7 @@ Battle Theme 3 (Shining Force)
 
 
 
-Crateria:
+# Crateria:
 
 Hyrule Castle (Link to the Past)
 
@@ -168,7 +168,7 @@ Deku Palace - NSF version (Majora's Mask)
 
 
 
-Menu:
+# Menu:
 
 IceCap Zone Act 2 (Sonic 3)
 
@@ -190,4 +190,4 @@ Dreams of Love and Literature (Doki-Doki Literature Club)
 
 
 
-Victory Theme - Zelda 1 Credits
+# Victory Theme - Zelda 1 Credits
