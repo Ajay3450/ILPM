@@ -497,3 +497,23 @@ discFileSkip:
 notCustomMusic:
   lwz r12, 0(r29)							# Original operation
 }
+
+#########################################
+Song Title Displays On Pause Screen [Eon]
+#########################################
+HOOK @ $800F0938
+{
+bctrl
+lis r3, 0x805A
+lwz r3, 0x2D0(r3)
+lwz r3, 0x44(r3)
+lwz r5, 0x40(r3)
+lwz r5, 0x10(r5)
+
+lwz r3, 0x0(r31)
+lwz r4, 0xE4(r3)
+lwz r12, 0x0(r3)
+lwz r12, 0x34(r12)
+mtctr r12
+bctrl 
+}```
