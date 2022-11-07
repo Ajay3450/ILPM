@@ -163,3 +163,9 @@ ZSS Shorts Recolor - https://gamebanana.com/mods/download/286841
 Debug
 
 Codes for stagelist toggle, ALC per port, red flash on L-cancel fail - ilikepizza107, Motobug, Bird
+
+---
+PSA
+
+Changes to FitPit.pac by ilikepizza107
+ - This fixes the on-hit effect for Dark Pit's arrows being incorrectly assigned. Sub Routine 146F0 was changed to fix this
