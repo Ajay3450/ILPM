@@ -21,9 +21,9 @@ TABLE_1:
 	byte[11] |
 0x0C, | # Yoshi's Island
 0x08, | # Pirate Ship
-0x04, | # Metal Cavern
 0x23, | # Dream Land
-0x1C, | # Green Hill Zone
+0x01, | # Final Destination
+0x13, | # Castle Siege
 0x1A, | # Smashville
 0x00, | # Battlefield
 0x28, | # Pokemon Stadium 2
