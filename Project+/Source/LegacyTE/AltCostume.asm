@@ -55,7 +55,6 @@ HOOK @ $8068478C
 loc_0x74:
   andi. r0, r3, 0x20; bne- setAltR			# Check for R on a GC/CC
   andis. r0, r3, 0x4; beq+ loc_0x88			# Check for C on a Nunchuk
-  li r0, 0x20;  and. r0, r3, r0;  beq- loc_0x88
 setAltR:
   li r3, 0x2;  b loc_0x8C	# Set AltR
 loc_0x88:

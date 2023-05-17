@@ -848,7 +848,7 @@ Crate/Barrel normalization by Motobug, HyperFlame, KingJigglypuff and DukeItOut
 BATTLEFIELD
 Base - Battlefield by PMDT with lighting fixes by DukeItOut and Mawwwk
 L - Battlefield (Melee) by the PMDT, with texture fixes by sporksparks and DukeItOut
-R - Lunar Battlefield by Scout, Puzzled, DukeItOut, MarioDox, mawwwk
+R - Lunar Battlefield by Nezha the Scout, soopercool101, Layell, and DukeItOut
 Z - Torn Sky Battlefield by Dranakar, Scout, WorseDoughnut, MarioDox, davidvkimball, soopercool101
 Y - Battlefield (N64) by Mewtwo2000, Yohan1044, mawwwk
 
@@ -998,8 +998,8 @@ X     - Green Hill Zone Brawl, boundary updates by PMDT, additional updates by K
 PICTOCHAT
 Base stage displays "Zero Suit Samus" using module edit by DukeItOut. 
 L - Mario Paint REDUX by MarioDox with credit to Nezha the Scout, AlGeorgeRomo
-R - PictoChat of Time by Motobug, Puzzled, davidvkimball, MarioDox, mawwwk with credit to WorseDoughnut, soopercool101, and the PMDT
-Z - Pictochat Zone by davidvkimball, Yohan1044, MarioDox, mawwwk with credit to the PMDT for the stage upon which it's based.
+R - PictoChat of Time by ART+, Motobug, Yorch, Kapedani, Puzzled, davidvkimball, MarioDox, mawwwk with credit to WorseDoughnut, soopercool101
+Z - Pictochat Zone by Yorch, Motobug, Kapedani, davidvkimball, Yohan1044, mawwwk, and MarioDox with credit to the PMDT for the stage upon which it's based.
 
 HANENBOW
 R - Fountainbow by davidvkimball, WorseDoughnut, Yohan1044 with credit to Mewtwo2000 and the PMDT

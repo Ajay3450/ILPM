@@ -629,7 +629,7 @@ Chaos_Angel.tlst - 9 tracks
 	Frequency: 40
 
 ################
-Chemical_Plant_Zone.tlst - 6 tracks
+Chemical_Plant_Zone.tlst - 7 tracks
 
 	Chemical Plant Zone
 	Sonic/Chemical Plant Zone.brstm
@@ -643,6 +643,11 @@ Chemical_Plant_Zone.tlst - 6 tracks
 	Spring Yard Zone
 	Sonic/Spring Yard Zone.brstm
 	Volume: 80
+	Frequency: 40
+
+	Flying Battery Zone
+	Sonic/Flying Battery Zone.brstm
+	Volume: 50
 	Frequency: 40
 
 	His World
@@ -4417,7 +4422,7 @@ Smashville_Tropical.tlst - 6 tracks
 	Frequency: 40
 
 ################
-Space_Colony_Ark.tlst - 7 tracks
+Space_Colony_Ark.tlst - 8 tracks
 
 	Live and Learn
 	U09.brstm (0x27FA)
@@ -4434,6 +4439,11 @@ Space_Colony_Ark.tlst - 7 tracks
 	Chemical Plant Zone
 	Sonic/Chemical Plant Zone.brstm
 	Volume: 80
+	Frequency: 40
+
+	Flying Battery Zone
+	Sonic/Flying Battery Zone.brstm
+	Volume: 50
 	Frequency: 40
 
 	Ocean Base
