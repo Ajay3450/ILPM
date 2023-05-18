@@ -909,6 +909,7 @@ Z - Crateria by Nezha the Scout with credit to PMDT
 
 FRIGATE HUSK
 Base - Frigate Husk by The Project+ Art team, Yorch, GRAND AZEL, SJ, mawwwk, and Motobug
+L - Hyrule Meadows by Motobug, mawwwk, with credit to Dranakar, Scout, davidvkimball, DukeItOut, soopercool101, PMDT
 L - Phendrana by DukeItOut with credit to Akiro, Johnlcb, mawwwk & rihuganon, optimizations by Layell
 R - Drowned Frigate by Yorch, The Project+ Art team, and Motobug
 
